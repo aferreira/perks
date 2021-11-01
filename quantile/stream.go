@@ -11,7 +11,7 @@
 //
 // Effective Computation of Biased Quantiles over Data Streams
 //
-// http://www.cs.rutgers.edu/~muthu/bquant.pdf
+// http://dimacs.rutgers.edu/~graham/pubs/papers/bquant-icde.pdf
 package quantile
 
 import (
